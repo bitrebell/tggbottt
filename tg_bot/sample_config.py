@@ -1,3 +1,5 @@
+from tg_bot.sample_config import Config
+
 class Development(Config):
   
   
