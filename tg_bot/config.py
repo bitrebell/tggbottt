@@ -5,7 +5,7 @@ class Development(Config):
   
     API_ID = 10738943
     API_HASH = "da61e3a08b5ac78ce28b4a4cd854aeec"
-    TOKEN = "6009111407:AAGfId8nCk6BRQdq1cR4Bo1LUQPMqSjLZ68"
+    API_KEY = "6009111407:AAGfId8nCk6BRQdq1cR4Bo1LUQPMqSjLZ68"
     OWNER_ID = 5716978554
     OWNER_USERNAME = "aadillllll"
     OWNER_USERNAME = "CrushAssistant"
